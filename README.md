@@ -1,4 +1,4 @@
-Information
+Information 
 Supported systems - Windows 10 & Windows 11 (1903+)
 Supported Processors - Both Intel & AMD
 Supported Anti-Cheats -EAC & BE & UAC (Tournaments)
@@ -36,3 +36,6 @@ Choose The Desired Hotkey For Each Action
 Customizable Colors For Each Cheat Feature
 Save/Load Configs
 Font Selector (Default/FN Font)
+
+
+SUPPORTS ASUS!!!!
